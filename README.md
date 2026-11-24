@@ -1,6 +1,6 @@
 # Aneesh Pradhan
 
-CS student at CSU East Bay, graduating May 2027, based in San Francisco.
+CS student at CSU East Bay, graduating May 2027, based in the San Francisco Bay Area.
 I work close to the hardware — Linux drivers, systems tools, and the software around them — and I'm looking for new-grad and intern SWE roles in systems, embedded, and infrastructure.
 
 ## Featured projects
