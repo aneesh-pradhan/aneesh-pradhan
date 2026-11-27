@@ -1,29 +1,24 @@
-# Hi, I'm Aneesh
+# Aneesh Pradhan
 
-CS student at CSU East Bay, based in San Francisco. I like working close to the hardware: Linux drivers, compilers, firmware, and the tools around them.
+CS student at CSU East Bay, graduating May 2027, based in the San Francisco Bay Area.
+I work close to the hardware — Linux drivers, systems tools, and the software around them — and I'm looking for new-grad and intern SWE roles in systems, embedded, and infrastructure.
 
-## Highlights
+## Featured projects
 
-- **[s5k4h8](https://github.com/aneesh-pradhan/s5k4h8)**: Samsung S5K4H8 8MP camera sensor driver for mainline Linux
-- **[urchin](https://github.com/aneesh-pradhan/urchin)**: an LLVM programming language based on otters
-- **[jacOS](https://github.com/aneesh-pradhan/jacOS)**: object-spatial hardware diagnostics for postmarketOS, written in Jac
-- **[ezwin](https://github.com/aneesh-pradhan/ezwin)**: native Linux terminal flasher for Windows 11 hybrid ISOs
-- **[rp2350-fsr](https://github.com/aneesh-pradhan/rp2350-fsr)**: RP2350 firmware for FSR dance pads, with 1000 Hz USB HID polling
-- **[buddy](https://github.com/aneesh-pradhan/buddy)**: terminal control panel for the CMF Buds Pro 2 on Linux
+- **[ember](https://github.com/aneesh-pradhan/ember)** — Rust terminal coding agent for NVIDIA Nemotron on Nebius Token Factory; `/fix` reproduces a bug with a failing test, tries each strategy in its own git worktree, and does not touch the working tree until you approve.
+- **[ezwin](https://github.com/aneesh-pradhan/ezwin)** — Native Linux terminal tool that writes a UEFI-bootable Windows 11 USB from Microsoft hybrid ISOs, splitting `install.wim` into `install.swm` files at 3800 MiB so the image fits on FAT32.
+- **[jacOS](https://github.com/aneesh-pradhan/jacOS)** — Object-spatial hardware diagnostics for postmarketOS, written in Jac; device-tree phandles become typed edges (`SuppliedBy`, `ClockedBy`) that a walker traverses to a root cause.
+- **[s5k4h8](https://github.com/aneesh-pradhan/s5k4h8)** — Mainline Linux V4L2 sub-device driver for the Samsung S5K4H8 8MP sensor: 4-lane MIPI CSI-2 at 280 MHz, SGRBG10 output, developed for the Moto E4 (`perry`, MSM8917) and tested with mainline CAMSS.
 
-## Currently
+## Skills
 
-- Buddy: CMF Buds Pro 2 control panel for Linux
-- Pop Score-Up: score tracker app for pop'n music on iOS and Android
+C, C++, Rust, Linux kernel (V4L2, device tree), LLVM/Clang, Jac
 
-## Currently reading
+## Contact
 
-- Writing a C Compiler
-- OS:TEP
-- C++ Primer
-- Effective C
-- Understanding The Machine
+[LinkedIn](https://www.linkedin.com/in/aneeshpradhan)
 
-## Elsewhere
-
+<!--
+apradhan.dev currently serves a domain parking page. Uncomment once the site is live:
 [apradhan.dev](https://apradhan.dev)
+-->
